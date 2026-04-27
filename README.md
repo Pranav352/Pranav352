@@ -9,8 +9,11 @@
 ## 🚀 About Me
 
 💻 Python Backend Developer with hands-on experience in Django & REST APIs
+
 📊 Passionate about building scalable, data-driven applications
+
 🎯 Focused on writing clean, efficient, and production-ready code
+
 💼 Actively looking for Backend / Software Developer roles
 
 📫 **Email:** [pranav989135@gmail.com](mailto:pranav989135@gmail.com)
@@ -22,16 +25,18 @@
 ### 💻 Languages & Frameworks
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-0A0A0A?style=for-the-badge&logo=django&logoColor=00FF7F)
 ![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge\&logo=django\&logoColor=white)
+![React](https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=00FFFF)
 
 ### 🗄️ Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=00BFFF)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
 
 ### ⚙️ Tools
 
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
@@ -40,10 +45,30 @@
 
 ## 🚀 Featured Projects
 
-🔹 **Villa Booking System**
+🔹 Villa Booking System (Full Stack)
 
-* Django-based booking platform
-* Authentication, booking logic, admin panel
+A full-stack web application built with Django REST Framework and React.
+
+🚀 Features:
+
+
+  * User authentication (JWT)
+  
+  * Browse available villas
+  
+  * Book and manage reservations
+  
+  * Secure API-based architecture
+    
+🛠️ Tech Stack:
+
+  * Backend: Django, DRF
+  
+  * Frontend: React
+  
+  * Database: PostgreSQL
+  
+  * Authentication: JWT
 
 🔹 **Product Inventory API**
 
@@ -92,3 +117,5 @@
 ---
 
 ⭐️ *“Code. Build. Improve. Repeat.”*
+
+
