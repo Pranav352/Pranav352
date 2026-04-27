@@ -14,3 +14,36 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Hi, I'm Pranav Patel
+
+### 💻 Python Backend Developer
+
+* 🔭 Working on Django & REST APIs
+* 🌱 Learning Advanced Backend & System Design
+* 💡 Interested in Data & Scalable Systems
+* 📫 Contact: [pranav989135@gmail.com](mailto:pranav989135@gmail.com)
+
+---
+
+### 🚀 Tech Stack
+
+* Python | Django | DRF
+* MySQL | SQLite
+* Git | GitHub | Postman
+
+---
+
+### 📌 Featured Projects
+
+* 🔹 Villa Booking System (Django)
+* 🔹 Product Inventory API
+* 🔹 Student Management System
+
+---
+
+### 📊 GitHub Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=Pranav352\&show_icons=true)
+
+![streak](https://streak-stats.demolab.com?user=Pranav352)
+
