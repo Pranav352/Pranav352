@@ -45,7 +45,8 @@
 
 ## 🚀 Featured Projects
 
-🔹 Villa Booking System (Full Stack)
+
+🔹 Villa Booking System (Full Stack) [![VillaBook Repo](https://img.shields.io/badge/villa-Project-blue)](https://github.com/Pranav352/villaBooking)
 
 A full-stack web application built with Django REST Framework and React.
 
@@ -70,12 +71,20 @@ A full-stack web application built with Django REST Framework and React.
   
   * Authentication: JWT
 
-🔹 **Product Inventory API**
+🔹 **Product Inventory API** [![Product Repo](https://img.shields.io/badge/Product-Project-blue)](https://github.com/Pranav352/Product-Inventory-API)
 
 * REST API with CRUD operations
 * Built using Django REST Framework
+* CRUD operations for product management
+* JWT Authentication
+* API documentation using Swagger
+* Automated testing with Pytest
+* Code linting and formatting
+* Static type checking
+* Pre-commit hooks for code quality
+* Continuous Integration support
 
-🔹 **Student Management System**
+🔹 **Employee Management System** [![Employee Repo](https://img.shields.io/badge/Employee-Project-blue)](https://github.com/Pranav352/crud-operation)
 
 * Efficient student record handling
 * Clean database design
@@ -106,16 +115,20 @@ A full-stack web application built with Django REST Framework and React.
   <img src="https://komarev.com/ghpvc/?username=Pranav352&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<!-- 
+
 ---
 
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/pranav-patel-1b8966237/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Pranav352)
+
 ---
 
 ⭐️ *“Code. Build. Improve. Repeat.”*
+
+
 
 
